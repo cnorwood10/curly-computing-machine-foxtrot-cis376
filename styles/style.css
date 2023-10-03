@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Libre+Baskerville&display=swap');
 
 #titleBar {
     background-image: url(https://cdn.pixabay.com/photo/2016/10/22/01/54/wood-1759566__340.jpg);
@@ -27,7 +27,7 @@ body {
     }
 
 .bigger {
-  font-family: "Roboto Slab", serif;
+    font-family: 'Libre Baskerville', serif;
 
   }
 
